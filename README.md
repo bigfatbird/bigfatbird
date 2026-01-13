@@ -1,1 +1,1 @@
-# Hi there, i am Marco! 👋
+# Hi there, I am Marco! 👋
