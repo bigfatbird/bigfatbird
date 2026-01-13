@@ -1,6 +1,6 @@
 # Hi there, i am Marco! 👋
 
-<p align="center" height="300">
+<p align="center" height="500">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
 
